@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "author": "Kadir Pekel <kadirpekel@gmail.com>",
+  "name": "regext",
+  "description": "Named capturing groups for Javascript regexers",
+  "readme": "http://github.com/kadirpekel/regext#readme",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kadirpekel/regext"
+  }
+}
