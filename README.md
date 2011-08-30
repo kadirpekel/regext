@@ -5,7 +5,6 @@ RegExt is trying to fill a missing feature for javascript regular expressions.
 It adds some flavor to classic javascript RegExp expressions to support named
 capturing groups.
 
-It is currently in a prototype form of an idea.
 
 Install
 -------
